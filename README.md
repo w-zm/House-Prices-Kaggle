@@ -11,5 +11,9 @@
 
 ### Rank
 
-- submission5.csv      score 0.13038        rank 1402
+|      File       |  Score  | Rank |
+| :-------------: | :-----: | :--: |
+| submission5.csv | 0.13038 | 1402 |
+
+
 
