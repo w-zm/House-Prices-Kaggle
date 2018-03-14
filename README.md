@@ -14,6 +14,7 @@
 |      File       |  Score  | Rank |
 | :-------------: | :-----: | :--: |
 | submission5.csv | 0.13038 | 1402 |
+| submission6.csv | 0.12630 | 1209 |
 
 
 
